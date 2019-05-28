@@ -1,6 +1,6 @@
 # Insight API
 
-A Particl blockchain REST and web socket API service for [Bitcore Node](https://github.com/vpubchain/vpub-bitcore-node).
+A Vpub blockchain REST and web socket API service for [Bitcore Node](https://github.com/vpubchain/vpub-bitcore-node).
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/vpubchain/vpub-insight-ui.
 

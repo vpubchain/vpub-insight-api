@@ -1,6 +1,6 @@
 {
   "name": "vpub-insight-api",
-  "description": "A Particl blockchain REST and web socket API service for Bitcore Node.",
+  "description": "A Vpub blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.4",
   "repository": "git://github.com/vpubchain/vpub-insight-api.git",
   "contributors": [
